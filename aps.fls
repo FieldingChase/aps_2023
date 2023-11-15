@@ -2092,6 +2092,11 @@ INPUT ./movie/sch_movie.57.png
 INPUT movie/sch_movie.57.png
 INPUT ./movie/sch_movie.57.png
 INPUT ./movie/sch_movie.57.png
+INPUT ./figures/Utah_CHPC_logo.jpg
+INPUT ./figures/Utah_CHPC_logo.jpg
+INPUT figures/Utah_CHPC_logo.jpg
+INPUT ./figures/Utah_CHPC_logo.jpg
+INPUT ./figures/Utah_CHPC_logo.jpg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm

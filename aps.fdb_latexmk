@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex aps"] 1700084710 "aps.aux" "aps.bbl" "aps" 1700084748
+["bibtex aps"] 1700086874 "aps.aux" "aps.bbl" "aps" 1700086884
   "./jfm.bst" 1699997182 31797 4905f5a36c36e08bc982133b3dc1d7d2 ""
-  "aps.aux" 1700084748 5554 223bb7009275e88b3def5ef9bbc1dcce "pdflatex"
+  "aps.aux" 1700086884 5554 6a43a8aa92af24588cdfb0212a9cb0fb "pdflatex"
   "ref.bib" 1700025202 1774 633032fa0c34b3f50eb3c5ce5647402c ""
   (generated)
   "aps.bbl"
   "aps.blg"
-["pdflatex"] 1700084738 "/media/anton/OSDisk/notes/aps_2023/aps.tex" "aps.pdf" "aps" 1700084748
+["pdflatex"] 1700086874 "/media/anton/OSDisk/notes/aps_2023/aps.tex" "aps.pdf" "aps" 1700086884
   "/etc/texmf/web2c/texmf.cnf" 1679014790 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/media/anton/OSDisk/notes/aps_2023/aps.tex" 1700084738 18526 0a0f38dfc3878e6d4385080d8001dd19 ""
+  "/media/anton/OSDisk/notes/aps_2023/aps.tex" 1700086863 18714 26b002526d9a5b7162b242000d21c5bf ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcsi0800.tfm" 1136768653 2048 581da102e255038da35b3ef7a18a2db8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -263,16 +263,17 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1686682743 362444 d082a522277925383c40fd9e80e279fd ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1686158321 1484737 fad9cdf5e0f5ba84cd3073edf6ed2d44 ""
-  "aps.aux" 1700084748 5554 223bb7009275e88b3def5ef9bbc1dcce "pdflatex"
-  "aps.bbl" 1700084710 1905 4aeac512e8ba48ab3fe03b951b0c3dd5 "bibtex aps"
-  "aps.nav" 1700084748 2057 f2614e11ed94f5803dde5339aacd4aba "pdflatex"
-  "aps.out" 1700084748 284 7ee85894bde9b5f3d491e591f4ff20ce "pdflatex"
-  "aps.tex" 1700084738 18526 0a0f38dfc3878e6d4385080d8001dd19 ""
+  "aps.aux" 1700086884 5554 6a43a8aa92af24588cdfb0212a9cb0fb "pdflatex"
+  "aps.bbl" 1700086874 1905 4aeac512e8ba48ab3fe03b951b0c3dd5 "bibtex aps"
+  "aps.nav" 1700086884 2057 f2614e11ed94f5803dde5339aacd4aba "pdflatex"
+  "aps.out" 1700086884 284 7ee85894bde9b5f3d491e591f4ff20ce "pdflatex"
+  "aps.tex" 1700086863 18714 26b002526d9a5b7162b242000d21c5bf ""
   "beamercolorthemeDarkBlue.sty" 1699990921 929 919ecaa31f11384895595ba06031d86f ""
   "beamerfontthemeSimple.sty" 1699990921 953 5941b782a7fde85b8ac472fc720848e4 ""
   "beamerthemeSimple.sty" 1699990921 813 98ac2eaf70dba3935bbfbb264d3dd105 ""
   "figures/ImH.png" 1700026226 69876 6ff4c7e6615ea379bfea39f0530ad6a7 ""
   "figures/ReH.png" 1700026222 145960 d8b7c6b42508bc7e1707e63a7ca8e410 ""
+  "figures/Utah_CHPC_logo.jpg" 1700086754 1167009 a1e2caffe9aaeda714ea0b972f94e140 ""
   "figures/bigviewIGW.png" 1700003208 577978 0b0ef80fbd0810b9e857a82d2d949350 ""
   "figures/boyer.png" 1699997682 1291701 16570f82646bce543a6aeeab23bc61c9 ""
   "figures/circledrag.pdf" 1700017925 13577 9e1c88b7815389ae44cc9cc6e696dccc ""

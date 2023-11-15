@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.7)  15 NOV 2023 14:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.7)  15 NOV 2023 15:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -844,1201 +844,1207 @@ Package caption Info: End \AtBeginDocument code.
 <figures/u-state-black.png, id=37, 358.941pt x 72.7518pt>
 File: figures/u-state-black.png Graphic file (type png)
 <use figures/u-state-black.png>
-Package pdftex.def Info: figures/u-state-black.png  used on input line 59.
+Package pdftex.def Info: figures/u-state-black.png  used on input line 65.
 (pdftex.def)             Requested size: 140.38075pt x 28.45274pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 59.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 59.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <movie/sch_movie.0.png, id=39, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.0.png Graphic file (type png)
 <use movie/sch_movie.0.png>
-Package pdftex.def Info: movie/sch_movie.0.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.0.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.0.png (PNG copy)> <a0,fr0>
 <movie/sch_movie.1.png, id=42, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.1.png Graphic file (type png)
 <use movie/sch_movie.1.png>
-Package pdftex.def Info: movie/sch_movie.1.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.1.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.1.png (PNG copy)> <a0,fr1>
 <movie/sch_movie.2.png, id=45, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.2.png Graphic file (type png)
 <use movie/sch_movie.2.png>
-Package pdftex.def Info: movie/sch_movie.2.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.2.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.2.png (PNG copy)> <a0,fr2>
 <movie/sch_movie.3.png, id=48, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.3.png Graphic file (type png)
 <use movie/sch_movie.3.png>
-Package pdftex.def Info: movie/sch_movie.3.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.3.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.3.png (PNG copy)> <a0,fr3>
 <movie/sch_movie.4.png, id=51, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.4.png Graphic file (type png)
 <use movie/sch_movie.4.png>
-Package pdftex.def Info: movie/sch_movie.4.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.4.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.4.png (PNG copy)> <a0,fr4>
 <movie/sch_movie.5.png, id=54, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.5.png Graphic file (type png)
 <use movie/sch_movie.5.png>
-Package pdftex.def Info: movie/sch_movie.5.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.5.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.5.png (PNG copy)> <a0,fr5>
 <movie/sch_movie.6.png, id=57, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.6.png Graphic file (type png)
 <use movie/sch_movie.6.png>
-Package pdftex.def Info: movie/sch_movie.6.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.6.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.6.png (PNG copy)> <a0,fr6>
 <movie/sch_movie.7.png, id=60, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.7.png Graphic file (type png)
 <use movie/sch_movie.7.png>
-Package pdftex.def Info: movie/sch_movie.7.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.7.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.7.png (PNG copy)> <a0,fr7>
 <movie/sch_movie.8.png, id=63, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.8.png Graphic file (type png)
 <use movie/sch_movie.8.png>
-Package pdftex.def Info: movie/sch_movie.8.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.8.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.8.png (PNG copy)> <a0,fr8>
 <movie/sch_movie.9.png, id=66, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.9.png Graphic file (type png)
 <use movie/sch_movie.9.png>
-Package pdftex.def Info: movie/sch_movie.9.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.9.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.9.png (PNG copy)> <a0,fr9>
 <movie/sch_movie.10.png, id=69, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.10.png Graphic file (type png)
 <use movie/sch_movie.10.png>
-Package pdftex.def Info: movie/sch_movie.10.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.10.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.10.png (PNG copy)> <a0,fr10>
 <movie/sch_movie.11.png, id=72, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.11.png Graphic file (type png)
 <use movie/sch_movie.11.png>
-Package pdftex.def Info: movie/sch_movie.11.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.11.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.11.png (PNG copy)> <a0,fr11>
 <movie/sch_movie.12.png, id=75, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.12.png Graphic file (type png)
 <use movie/sch_movie.12.png>
-Package pdftex.def Info: movie/sch_movie.12.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.12.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.12.png (PNG copy)> <a0,fr12>
 <movie/sch_movie.13.png, id=78, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.13.png Graphic file (type png)
 <use movie/sch_movie.13.png>
-Package pdftex.def Info: movie/sch_movie.13.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.13.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.13.png (PNG copy)> <a0,fr13>
 <movie/sch_movie.14.png, id=81, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.14.png Graphic file (type png)
 <use movie/sch_movie.14.png>
-Package pdftex.def Info: movie/sch_movie.14.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.14.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.14.png (PNG copy)> <a0,fr14>
 <movie/sch_movie.15.png, id=84, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.15.png Graphic file (type png)
 <use movie/sch_movie.15.png>
-Package pdftex.def Info: movie/sch_movie.15.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.15.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.15.png (PNG copy)> <a0,fr15>
 <movie/sch_movie.16.png, id=87, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.16.png Graphic file (type png)
 <use movie/sch_movie.16.png>
-Package pdftex.def Info: movie/sch_movie.16.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.16.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.16.png (PNG copy)> <a0,fr16>
 <movie/sch_movie.17.png, id=90, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.17.png Graphic file (type png)
 <use movie/sch_movie.17.png>
-Package pdftex.def Info: movie/sch_movie.17.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.17.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.17.png (PNG copy)> <a0,fr17>
 <movie/sch_movie.18.png, id=93, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.18.png Graphic file (type png)
 <use movie/sch_movie.18.png>
-Package pdftex.def Info: movie/sch_movie.18.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.18.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.18.png (PNG copy)> <a0,fr18>
 <movie/sch_movie.19.png, id=96, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.19.png Graphic file (type png)
 <use movie/sch_movie.19.png>
-Package pdftex.def Info: movie/sch_movie.19.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.19.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.19.png (PNG copy)> <a0,fr19>
 <movie/sch_movie.20.png, id=99, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.20.png Graphic file (type png)
 <use movie/sch_movie.20.png>
-Package pdftex.def Info: movie/sch_movie.20.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.20.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.20.png (PNG copy)> <a0,fr20>
 <movie/sch_movie.21.png, id=102, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.21.png Graphic file (type png)
 <use movie/sch_movie.21.png>
-Package pdftex.def Info: movie/sch_movie.21.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.21.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.21.png (PNG copy)> <a0,fr21>
 <movie/sch_movie.22.png, id=105, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.22.png Graphic file (type png)
 <use movie/sch_movie.22.png>
-Package pdftex.def Info: movie/sch_movie.22.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.22.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.22.png (PNG copy)> <a0,fr22>
 <movie/sch_movie.23.png, id=108, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.23.png Graphic file (type png)
 <use movie/sch_movie.23.png>
-Package pdftex.def Info: movie/sch_movie.23.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.23.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.23.png (PNG copy)> <a0,fr23>
 <movie/sch_movie.24.png, id=111, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.24.png Graphic file (type png)
 <use movie/sch_movie.24.png>
-Package pdftex.def Info: movie/sch_movie.24.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.24.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.24.png (PNG copy)> <a0,fr24>
 <movie/sch_movie.25.png, id=114, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.25.png Graphic file (type png)
 <use movie/sch_movie.25.png>
-Package pdftex.def Info: movie/sch_movie.25.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.25.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.25.png (PNG copy)> <a0,fr25>
 <movie/sch_movie.26.png, id=117, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.26.png Graphic file (type png)
 <use movie/sch_movie.26.png>
-Package pdftex.def Info: movie/sch_movie.26.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.26.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.26.png (PNG copy)> <a0,fr26>
 <movie/sch_movie.27.png, id=120, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.27.png Graphic file (type png)
 <use movie/sch_movie.27.png>
-Package pdftex.def Info: movie/sch_movie.27.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.27.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.27.png (PNG copy)> <a0,fr27>
 <movie/sch_movie.28.png, id=123, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.28.png Graphic file (type png)
 <use movie/sch_movie.28.png>
-Package pdftex.def Info: movie/sch_movie.28.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.28.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.28.png (PNG copy)> <a0,fr28>
 <movie/sch_movie.29.png, id=126, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.29.png Graphic file (type png)
 <use movie/sch_movie.29.png>
-Package pdftex.def Info: movie/sch_movie.29.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.29.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.29.png (PNG copy)> <a0,fr29>
 <movie/sch_movie.30.png, id=129, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.30.png Graphic file (type png)
 <use movie/sch_movie.30.png>
-Package pdftex.def Info: movie/sch_movie.30.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.30.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.30.png (PNG copy)> <a0,fr30>
 <movie/sch_movie.31.png, id=132, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.31.png Graphic file (type png)
 <use movie/sch_movie.31.png>
-Package pdftex.def Info: movie/sch_movie.31.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.31.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.31.png (PNG copy)> <a0,fr31>
 <movie/sch_movie.32.png, id=135, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.32.png Graphic file (type png)
 <use movie/sch_movie.32.png>
-Package pdftex.def Info: movie/sch_movie.32.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.32.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.32.png (PNG copy)> <a0,fr32>
 <movie/sch_movie.33.png, id=138, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.33.png Graphic file (type png)
 <use movie/sch_movie.33.png>
-Package pdftex.def Info: movie/sch_movie.33.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.33.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.33.png (PNG copy)> <a0,fr33>
 <movie/sch_movie.34.png, id=141, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.34.png Graphic file (type png)
 <use movie/sch_movie.34.png>
-Package pdftex.def Info: movie/sch_movie.34.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.34.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.34.png (PNG copy)> <a0,fr34>
 <movie/sch_movie.35.png, id=144, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.35.png Graphic file (type png)
 <use movie/sch_movie.35.png>
-Package pdftex.def Info: movie/sch_movie.35.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.35.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.35.png (PNG copy)> <a0,fr35>
 <movie/sch_movie.36.png, id=147, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.36.png Graphic file (type png)
 <use movie/sch_movie.36.png>
-Package pdftex.def Info: movie/sch_movie.36.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.36.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.36.png (PNG copy)> <a0,fr36>
 <movie/sch_movie.37.png, id=150, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.37.png Graphic file (type png)
 <use movie/sch_movie.37.png>
-Package pdftex.def Info: movie/sch_movie.37.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.37.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.37.png (PNG copy)> <a0,fr37>
 <movie/sch_movie.38.png, id=153, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.38.png Graphic file (type png)
 <use movie/sch_movie.38.png>
-Package pdftex.def Info: movie/sch_movie.38.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.38.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.38.png (PNG copy)> <a0,fr38>
 <movie/sch_movie.39.png, id=156, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.39.png Graphic file (type png)
 <use movie/sch_movie.39.png>
-Package pdftex.def Info: movie/sch_movie.39.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.39.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.39.png (PNG copy)> <a0,fr39>
 <movie/sch_movie.40.png, id=159, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.40.png Graphic file (type png)
 <use movie/sch_movie.40.png>
-Package pdftex.def Info: movie/sch_movie.40.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.40.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.40.png (PNG copy)> <a0,fr40>
 <movie/sch_movie.41.png, id=162, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.41.png Graphic file (type png)
 <use movie/sch_movie.41.png>
-Package pdftex.def Info: movie/sch_movie.41.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.41.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.41.png (PNG copy)> <a0,fr41>
 <movie/sch_movie.42.png, id=165, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.42.png Graphic file (type png)
 <use movie/sch_movie.42.png>
-Package pdftex.def Info: movie/sch_movie.42.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.42.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.42.png (PNG copy)> <a0,fr42>
 <movie/sch_movie.43.png, id=168, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.43.png Graphic file (type png)
 <use movie/sch_movie.43.png>
-Package pdftex.def Info: movie/sch_movie.43.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.43.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.43.png (PNG copy)> <a0,fr43>
 <movie/sch_movie.44.png, id=171, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.44.png Graphic file (type png)
 <use movie/sch_movie.44.png>
-Package pdftex.def Info: movie/sch_movie.44.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.44.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.44.png (PNG copy)> <a0,fr44>
 <movie/sch_movie.45.png, id=174, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.45.png Graphic file (type png)
 <use movie/sch_movie.45.png>
-Package pdftex.def Info: movie/sch_movie.45.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.45.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.45.png (PNG copy)> <a0,fr45>
 <movie/sch_movie.46.png, id=177, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.46.png Graphic file (type png)
 <use movie/sch_movie.46.png>
-Package pdftex.def Info: movie/sch_movie.46.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.46.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.46.png (PNG copy)> <a0,fr46>
 <movie/sch_movie.47.png, id=180, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.47.png Graphic file (type png)
 <use movie/sch_movie.47.png>
-Package pdftex.def Info: movie/sch_movie.47.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.47.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.47.png (PNG copy)> <a0,fr47>
 <movie/sch_movie.48.png, id=183, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.48.png Graphic file (type png)
 <use movie/sch_movie.48.png>
-Package pdftex.def Info: movie/sch_movie.48.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.48.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.48.png (PNG copy)> <a0,fr48>
 <movie/sch_movie.49.png, id=186, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.49.png Graphic file (type png)
 <use movie/sch_movie.49.png>
-Package pdftex.def Info: movie/sch_movie.49.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.49.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.49.png (PNG copy)> <a0,fr49>
 <movie/sch_movie.50.png, id=189, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.50.png Graphic file (type png)
 <use movie/sch_movie.50.png>
-Package pdftex.def Info: movie/sch_movie.50.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.50.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.50.png (PNG copy)> <a0,fr50>
 <movie/sch_movie.51.png, id=192, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.51.png Graphic file (type png)
 <use movie/sch_movie.51.png>
-Package pdftex.def Info: movie/sch_movie.51.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.51.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.51.png (PNG copy)> <a0,fr51>
 <movie/sch_movie.52.png, id=195, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.52.png Graphic file (type png)
 <use movie/sch_movie.52.png>
-Package pdftex.def Info: movie/sch_movie.52.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.52.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.52.png (PNG copy)> <a0,fr52>
 <movie/sch_movie.53.png, id=198, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.53.png Graphic file (type png)
 <use movie/sch_movie.53.png>
-Package pdftex.def Info: movie/sch_movie.53.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.53.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.53.png (PNG copy)> <a0,fr53>
 <movie/sch_movie.54.png, id=201, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.54.png Graphic file (type png)
 <use movie/sch_movie.54.png>
-Package pdftex.def Info: movie/sch_movie.54.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.54.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.54.png (PNG copy)> <a0,fr54>
 <movie/sch_movie.55.png, id=204, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.55.png Graphic file (type png)
 <use movie/sch_movie.55.png>
-Package pdftex.def Info: movie/sch_movie.55.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.55.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.55.png (PNG copy)> <a0,fr55>
 <movie/sch_movie.56.png, id=207, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.56.png Graphic file (type png)
 <use movie/sch_movie.56.png>
-Package pdftex.def Info: movie/sch_movie.56.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.56.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.56.png (PNG copy)> <a0,fr56>
 <movie/sch_movie.57.png, id=210, 2010.51125pt x 1153.30875pt>
 File: movie/sch_movie.57.png Graphic file (type png)
 <use movie/sch_movie.57.png>
-Package pdftex.def Info: movie/sch_movie.57.png  used on input line 59.
+Package pdftex.def Info: movie/sch_movie.57.png  used on input line 65.
 (pdftex.def)             Requested size: 2010.50636pt x 1153.30594pt.
  <./movie/sch_movie.57.png (PNG copy)> <a0,fr57>
-Overfull \vbox (23.5059pt too high) detected at line 59
+<figures/Utah_CHPC_logo.jpg, id=301, 541.5432pt x 253.9086pt>
+File: figures/Utah_CHPC_logo.jpg Graphic file (type jpg)
+<use figures/Utah_CHPC_logo.jpg>
+Package pdftex.def Info: figures/Utah_CHPC_logo.jpg  used on input line 65.
+(pdftex.def)             Requested size: 60.6772pt x 28.45274pt.
+
+Overfull \vbox (9.20453pt too high) detected at line 65
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/u-state-black.png>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/u-state-black.png> <./figures/Utah_CHPC_logo.jpg>]
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 119.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 119.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 119.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <9> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 119.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 119.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 125.
 <figures/boyer.png, id=314, 2147.02126pt x 1012.78375pt>
 File: figures/boyer.png Graphic file (type png)
 <use figures/boyer.png>
-Package pdftex.def Info: figures/boyer.png  used on input line 119.
+Package pdftex.def Info: figures/boyer.png  used on input line 125.
 (pdftex.def)             Requested size: 130.00452pt x 61.32074pt.
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 119.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <7> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 119.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 125.
 
-Overfull \vbox (8.14615pt too high) detected at line 119
+Overfull \vbox (8.14615pt too high) detected at line 125
  []
 
 [2
 
  <./figures/boyer.png>]
-<figures/bigviewIGW.png, id=336, 1652.1725pt x 1247.66125pt>
+<figures/bigviewIGW.png, id=337, 1652.1725pt x 1247.66125pt>
 File: figures/bigviewIGW.png Graphic file (type png)
 <use figures/bigviewIGW.png>
-Package pdftex.def Info: figures/bigviewIGW.png  used on input line 155.
+Package pdftex.def Info: figures/bigviewIGW.png  used on input line 161.
 (pdftex.def)             Requested size: 108.336pt x 81.80522pt.
-<figures/smallviewIGW.png, id=337, 1582.91376pt x 1236.62pt>
+<figures/smallviewIGW.png, id=338, 1582.91376pt x 1236.62pt>
 File: figures/smallviewIGW.png Graphic file (type png)
 <use figures/smallviewIGW.png>
-Package pdftex.def Info: figures/smallviewIGW.png  used on input line 155.
+Package pdftex.def Info: figures/smallviewIGW.png  used on input line 161.
 (pdftex.def)             Requested size: 108.336pt x 84.62871pt.
 
-Overfull \vbox (7.18604pt too high) detected at line 155
+Overfull \vbox (7.18604pt too high) detected at line 161
  []
 
 [3
 
  <./figures/bigviewIGW.png> <./figures/smallviewIGW.png>]
-<figures/flow_setup.pdf, id=352, 1113.15875pt x 820.06375pt>
+<figures/flow_setup.pdf, id=353, 1113.15875pt x 820.06375pt>
 File: figures/flow_setup.pdf Graphic file (type pdf)
 <use figures/flow_setup.pdf>
-Package pdftex.def Info: figures/flow_setup.pdf  used on input line 190.
+Package pdftex.def Info: figures/flow_setup.pdf  used on input line 196.
 (pdftex.def)             Requested size: 173.33826pt x 127.69669pt.
 
-Overfull \vbox (3.11183pt too high) detected at line 190
+Overfull \vbox (3.11183pt too high) detected at line 196
  []
 
 [4
 
  <./figures/flow_setup.pdf>]
-<spin_mesh/spin_mesh.0.png, id=367, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.0.png, id=368, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.0.png Graphic file (type png)
 <use spin_mesh/spin_mesh.0.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.0.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.0.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.0.png (PNG copy)> <a1,fr0>
-<spin_mesh/spin_mesh.1.png, id=370, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.1.png, id=371, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.1.png Graphic file (type png)
 <use spin_mesh/spin_mesh.1.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.1.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.1.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.1.png (PNG copy)> <a1,fr1>
-<spin_mesh/spin_mesh.2.png, id=373, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.2.png, id=374, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.2.png Graphic file (type png)
 <use spin_mesh/spin_mesh.2.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.2.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.2.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.2.png (PNG copy)> <a1,fr2>
-<spin_mesh/spin_mesh.3.png, id=376, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.3.png, id=377, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.3.png Graphic file (type png)
 <use spin_mesh/spin_mesh.3.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.3.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.3.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.3.png (PNG copy)> <a1,fr3>
-<spin_mesh/spin_mesh.4.png, id=379, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.4.png, id=380, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.4.png Graphic file (type png)
 <use spin_mesh/spin_mesh.4.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.4.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.4.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.4.png (PNG copy)> <a1,fr4>
-<spin_mesh/spin_mesh.5.png, id=382, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.5.png, id=383, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.5.png Graphic file (type png)
 <use spin_mesh/spin_mesh.5.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.5.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.5.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.5.png (PNG copy)> <a1,fr5>
-<spin_mesh/spin_mesh.6.png, id=385, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.6.png, id=386, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.6.png Graphic file (type png)
 <use spin_mesh/spin_mesh.6.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.6.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.6.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.6.png (PNG copy)> <a1,fr6>
-<spin_mesh/spin_mesh.7.png, id=388, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.7.png, id=389, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.7.png Graphic file (type png)
 <use spin_mesh/spin_mesh.7.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.7.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.7.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.7.png (PNG copy)> <a1,fr7>
-<spin_mesh/spin_mesh.8.png, id=391, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.8.png, id=392, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.8.png Graphic file (type png)
 <use spin_mesh/spin_mesh.8.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.8.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.8.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.8.png (PNG copy)> <a1,fr8>
-<spin_mesh/spin_mesh.9.png, id=394, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.9.png, id=395, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.9.png Graphic file (type png)
 <use spin_mesh/spin_mesh.9.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.9.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.9.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.9.png (PNG copy)> <a1,fr9>
-<spin_mesh/spin_mesh.10.png, id=397, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.10.png, id=398, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.10.png Graphic file (type png)
 <use spin_mesh/spin_mesh.10.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.10.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.10.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.10.png (PNG copy)> <a1,fr10>
-<spin_mesh/spin_mesh.11.png, id=400, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.11.png, id=401, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.11.png Graphic file (type png)
 <use spin_mesh/spin_mesh.11.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.11.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.11.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.11.png (PNG copy)> <a1,fr11>
-<spin_mesh/spin_mesh.12.png, id=403, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.12.png, id=404, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.12.png Graphic file (type png)
 <use spin_mesh/spin_mesh.12.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.12.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.12.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.12.png (PNG copy)> <a1,fr12>
-<spin_mesh/spin_mesh.13.png, id=406, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.13.png, id=407, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.13.png Graphic file (type png)
 <use spin_mesh/spin_mesh.13.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.13.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.13.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.13.png (PNG copy)> <a1,fr13>
-<spin_mesh/spin_mesh.14.png, id=409, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.14.png, id=410, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.14.png Graphic file (type png)
 <use spin_mesh/spin_mesh.14.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.14.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.14.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.14.png (PNG copy)> <a1,fr14>
-<spin_mesh/spin_mesh.15.png, id=412, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.15.png, id=413, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.15.png Graphic file (type png)
 <use spin_mesh/spin_mesh.15.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.15.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.15.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.15.png (PNG copy)> <a1,fr15>
-<spin_mesh/spin_mesh.16.png, id=415, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.16.png, id=416, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.16.png Graphic file (type png)
 <use spin_mesh/spin_mesh.16.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.16.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.16.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.16.png (PNG copy)> <a1,fr16>
-<spin_mesh/spin_mesh.17.png, id=418, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.17.png, id=419, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.17.png Graphic file (type png)
 <use spin_mesh/spin_mesh.17.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.17.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.17.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.17.png (PNG copy)> <a1,fr17>
-<spin_mesh/spin_mesh.18.png, id=421, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.18.png, id=422, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.18.png Graphic file (type png)
 <use spin_mesh/spin_mesh.18.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.18.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.18.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.18.png (PNG copy)> <a1,fr18>
-<spin_mesh/spin_mesh.19.png, id=424, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.19.png, id=425, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.19.png Graphic file (type png)
 <use spin_mesh/spin_mesh.19.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.19.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.19.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.19.png (PNG copy)> <a1,fr19>
-<spin_mesh/spin_mesh.20.png, id=428, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.20.png, id=429, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.20.png Graphic file (type png)
 <use spin_mesh/spin_mesh.20.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.20.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.20.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.20.png (PNG copy)> <a1,fr20>
-<spin_mesh/spin_mesh.21.png, id=431, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.21.png, id=432, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.21.png Graphic file (type png)
 <use spin_mesh/spin_mesh.21.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.21.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.21.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.21.png (PNG copy)> <a1,fr21>
-<spin_mesh/spin_mesh.22.png, id=434, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.22.png, id=435, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.22.png Graphic file (type png)
 <use spin_mesh/spin_mesh.22.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.22.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.22.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.22.png (PNG copy)> <a1,fr22>
-<spin_mesh/spin_mesh.23.png, id=437, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.23.png, id=438, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.23.png Graphic file (type png)
 <use spin_mesh/spin_mesh.23.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.23.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.23.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.23.png (PNG copy)> <a1,fr23>
-<spin_mesh/spin_mesh.24.png, id=440, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.24.png, id=441, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.24.png Graphic file (type png)
 <use spin_mesh/spin_mesh.24.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.24.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.24.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.24.png (PNG copy)> <a1,fr24>
-<spin_mesh/spin_mesh.25.png, id=443, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.25.png, id=444, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.25.png Graphic file (type png)
 <use spin_mesh/spin_mesh.25.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.25.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.25.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.25.png (PNG copy)> <a1,fr25>
-<spin_mesh/spin_mesh.26.png, id=446, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.26.png, id=447, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.26.png Graphic file (type png)
 <use spin_mesh/spin_mesh.26.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.26.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.26.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.26.png (PNG copy)> <a1,fr26>
-<spin_mesh/spin_mesh.27.png, id=449, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.27.png, id=450, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.27.png Graphic file (type png)
 <use spin_mesh/spin_mesh.27.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.27.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.27.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.27.png (PNG copy)> <a1,fr27>
-<spin_mesh/spin_mesh.28.png, id=452, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.28.png, id=453, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.28.png Graphic file (type png)
 <use spin_mesh/spin_mesh.28.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.28.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.28.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.28.png (PNG copy)> <a1,fr28>
-<spin_mesh/spin_mesh.29.png, id=455, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.29.png, id=456, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.29.png Graphic file (type png)
 <use spin_mesh/spin_mesh.29.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.29.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.29.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.29.png (PNG copy)> <a1,fr29>
-<spin_mesh/spin_mesh.30.png, id=458, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.30.png, id=459, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.30.png Graphic file (type png)
 <use spin_mesh/spin_mesh.30.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.30.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.30.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.30.png (PNG copy)> <a1,fr30>
-<spin_mesh/spin_mesh.31.png, id=461, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.31.png, id=462, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.31.png Graphic file (type png)
 <use spin_mesh/spin_mesh.31.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.31.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.31.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.31.png (PNG copy)> <a1,fr31>
-<spin_mesh/spin_mesh.32.png, id=464, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.32.png, id=465, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.32.png Graphic file (type png)
 <use spin_mesh/spin_mesh.32.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.32.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.32.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.32.png (PNG copy)> <a1,fr32>
-<spin_mesh/spin_mesh.33.png, id=467, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.33.png, id=468, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.33.png Graphic file (type png)
 <use spin_mesh/spin_mesh.33.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.33.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.33.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.33.png (PNG copy)> <a1,fr33>
-<spin_mesh/spin_mesh.34.png, id=470, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.34.png, id=471, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.34.png Graphic file (type png)
 <use spin_mesh/spin_mesh.34.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.34.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.34.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.34.png (PNG copy)> <a1,fr34>
-<spin_mesh/spin_mesh.35.png, id=473, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.35.png, id=474, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.35.png Graphic file (type png)
 <use spin_mesh/spin_mesh.35.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.35.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.35.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.35.png (PNG copy)> <a1,fr35>
-<spin_mesh/spin_mesh.36.png, id=476, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.36.png, id=477, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.36.png Graphic file (type png)
 <use spin_mesh/spin_mesh.36.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.36.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.36.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.36.png (PNG copy)> <a1,fr36>
-<spin_mesh/spin_mesh.37.png, id=479, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.37.png, id=480, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.37.png Graphic file (type png)
 <use spin_mesh/spin_mesh.37.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.37.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.37.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.37.png (PNG copy)> <a1,fr37>
-<spin_mesh/spin_mesh.38.png, id=482, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.38.png, id=483, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.38.png Graphic file (type png)
 <use spin_mesh/spin_mesh.38.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.38.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.38.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.38.png (PNG copy)> <a1,fr38>
-<spin_mesh/spin_mesh.39.png, id=485, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.39.png, id=486, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.39.png Graphic file (type png)
 <use spin_mesh/spin_mesh.39.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.39.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.39.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.39.png (PNG copy)> <a1,fr39>
-<spin_mesh/spin_mesh.40.png, id=488, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.40.png, id=489, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.40.png Graphic file (type png)
 <use spin_mesh/spin_mesh.40.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.40.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.40.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.40.png (PNG copy)> <a1,fr40>
-<spin_mesh/spin_mesh.41.png, id=491, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.41.png, id=492, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.41.png Graphic file (type png)
 <use spin_mesh/spin_mesh.41.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.41.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.41.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.41.png (PNG copy)> <a1,fr41>
-<spin_mesh/spin_mesh.42.png, id=494, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.42.png, id=495, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.42.png Graphic file (type png)
 <use spin_mesh/spin_mesh.42.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.42.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.42.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.42.png (PNG copy)> <a1,fr42>
-<spin_mesh/spin_mesh.43.png, id=497, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.43.png, id=498, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.43.png Graphic file (type png)
 <use spin_mesh/spin_mesh.43.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.43.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.43.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.43.png (PNG copy)> <a1,fr43>
-<spin_mesh/spin_mesh.44.png, id=500, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.44.png, id=501, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.44.png Graphic file (type png)
 <use spin_mesh/spin_mesh.44.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.44.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.44.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.44.png (PNG copy)> <a1,fr44>
-<spin_mesh/spin_mesh.45.png, id=503, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.45.png, id=504, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.45.png Graphic file (type png)
 <use spin_mesh/spin_mesh.45.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.45.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.45.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.45.png (PNG copy)> <a1,fr45>
-<spin_mesh/spin_mesh.46.png, id=506, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.46.png, id=507, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.46.png Graphic file (type png)
 <use spin_mesh/spin_mesh.46.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.46.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.46.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.46.png (PNG copy)> <a1,fr46>
-<spin_mesh/spin_mesh.47.png, id=509, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.47.png, id=510, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.47.png Graphic file (type png)
 <use spin_mesh/spin_mesh.47.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.47.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.47.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.47.png (PNG copy)> <a1,fr47>
-<spin_mesh/spin_mesh.48.png, id=512, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.48.png, id=513, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.48.png Graphic file (type png)
 <use spin_mesh/spin_mesh.48.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.48.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.48.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.48.png (PNG copy)> <a1,fr48>
-<spin_mesh/spin_mesh.49.png, id=515, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.49.png, id=516, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.49.png Graphic file (type png)
 <use spin_mesh/spin_mesh.49.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.49.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.49.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.49.png (PNG copy)> <a1,fr49>
-<spin_mesh/spin_mesh.50.png, id=518, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.50.png, id=519, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.50.png Graphic file (type png)
 <use spin_mesh/spin_mesh.50.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.50.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.50.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.50.png (PNG copy)> <a1,fr50>
-<spin_mesh/spin_mesh.51.png, id=521, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.51.png, id=522, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.51.png Graphic file (type png)
 <use spin_mesh/spin_mesh.51.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.51.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.51.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.51.png (PNG copy)> <a1,fr51>
-<spin_mesh/spin_mesh.52.png, id=524, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.52.png, id=525, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.52.png Graphic file (type png)
 <use spin_mesh/spin_mesh.52.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.52.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.52.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.52.png (PNG copy)> <a1,fr52>
-<spin_mesh/spin_mesh.53.png, id=527, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.53.png, id=528, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.53.png Graphic file (type png)
 <use spin_mesh/spin_mesh.53.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.53.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.53.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.53.png (PNG copy)> <a1,fr53>
-<spin_mesh/spin_mesh.54.png, id=530, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.54.png, id=531, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.54.png Graphic file (type png)
 <use spin_mesh/spin_mesh.54.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.54.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.54.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.54.png (PNG copy)> <a1,fr54>
-<spin_mesh/spin_mesh.55.png, id=533, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.55.png, id=534, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.55.png Graphic file (type png)
 <use spin_mesh/spin_mesh.55.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.55.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.55.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.55.png (PNG copy)> <a1,fr55>
-<spin_mesh/spin_mesh.56.png, id=536, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.56.png, id=537, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.56.png Graphic file (type png)
 <use spin_mesh/spin_mesh.56.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.56.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.56.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.56.png (PNG copy)> <a1,fr56>
-<spin_mesh/spin_mesh.57.png, id=539, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.57.png, id=540, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.57.png Graphic file (type png)
 <use spin_mesh/spin_mesh.57.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.57.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.57.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.57.png (PNG copy)> <a1,fr57>
-<spin_mesh/spin_mesh.58.png, id=542, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.58.png, id=543, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.58.png Graphic file (type png)
 <use spin_mesh/spin_mesh.58.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.58.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.58.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.58.png (PNG copy)> <a1,fr58>
-<spin_mesh/spin_mesh.59.png, id=545, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.59.png, id=546, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.59.png Graphic file (type png)
 <use spin_mesh/spin_mesh.59.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.59.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.59.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.59.png (PNG copy)> <a1,fr59>
-<spin_mesh/spin_mesh.60.png, id=548, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.60.png, id=549, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.60.png Graphic file (type png)
 <use spin_mesh/spin_mesh.60.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.60.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.60.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.60.png (PNG copy)> <a1,fr60>
-<spin_mesh/spin_mesh.61.png, id=551, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.61.png, id=552, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.61.png Graphic file (type png)
 <use spin_mesh/spin_mesh.61.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.61.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.61.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.61.png (PNG copy)> <a1,fr61>
-<spin_mesh/spin_mesh.62.png, id=554, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.62.png, id=555, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.62.png Graphic file (type png)
 <use spin_mesh/spin_mesh.62.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.62.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.62.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.62.png (PNG copy)> <a1,fr62>
-<spin_mesh/spin_mesh.63.png, id=557, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.63.png, id=558, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.63.png Graphic file (type png)
 <use spin_mesh/spin_mesh.63.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.63.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.63.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.63.png (PNG copy)> <a1,fr63>
-<spin_mesh/spin_mesh.64.png, id=560, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.64.png, id=561, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.64.png Graphic file (type png)
 <use spin_mesh/spin_mesh.64.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.64.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.64.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.64.png (PNG copy)> <a1,fr64>
-<spin_mesh/spin_mesh.65.png, id=563, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.65.png, id=564, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.65.png Graphic file (type png)
 <use spin_mesh/spin_mesh.65.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.65.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.65.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.65.png (PNG copy)> <a1,fr65>
-<spin_mesh/spin_mesh.66.png, id=566, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.66.png, id=567, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.66.png Graphic file (type png)
 <use spin_mesh/spin_mesh.66.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.66.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.66.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.66.png (PNG copy)> <a1,fr66>
-<spin_mesh/spin_mesh.67.png, id=569, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.67.png, id=570, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.67.png Graphic file (type png)
 <use spin_mesh/spin_mesh.67.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.67.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.67.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.67.png (PNG copy)> <a1,fr67>
-<spin_mesh/spin_mesh.68.png, id=572, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.68.png, id=573, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.68.png Graphic file (type png)
 <use spin_mesh/spin_mesh.68.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.68.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.68.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.68.png (PNG copy)> <a1,fr68>
-<spin_mesh/spin_mesh.69.png, id=575, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.69.png, id=576, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.69.png Graphic file (type png)
 <use spin_mesh/spin_mesh.69.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.69.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.69.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.69.png (PNG copy)> <a1,fr69>
-<spin_mesh/spin_mesh.70.png, id=578, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.70.png, id=579, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.70.png Graphic file (type png)
 <use spin_mesh/spin_mesh.70.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.70.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.70.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.70.png (PNG copy)> <a1,fr70>
-<spin_mesh/spin_mesh.71.png, id=581, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.71.png, id=582, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.71.png Graphic file (type png)
 <use spin_mesh/spin_mesh.71.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.71.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.71.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.71.png (PNG copy)> <a1,fr71>
-<spin_mesh/spin_mesh.72.png, id=584, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.72.png, id=585, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.72.png Graphic file (type png)
 <use spin_mesh/spin_mesh.72.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.72.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.72.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.72.png (PNG copy)> <a1,fr72>
-<spin_mesh/spin_mesh.73.png, id=587, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.73.png, id=588, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.73.png Graphic file (type png)
 <use spin_mesh/spin_mesh.73.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.73.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.73.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.73.png (PNG copy)> <a1,fr73>
-<spin_mesh/spin_mesh.74.png, id=590, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.74.png, id=591, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.74.png Graphic file (type png)
 <use spin_mesh/spin_mesh.74.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.74.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.74.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.74.png (PNG copy)> <a1,fr74>
-<spin_mesh/spin_mesh.75.png, id=593, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.75.png, id=594, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.75.png Graphic file (type png)
 <use spin_mesh/spin_mesh.75.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.75.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.75.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.75.png (PNG copy)> <a1,fr75>
-<spin_mesh/spin_mesh.76.png, id=596, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.76.png, id=597, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.76.png Graphic file (type png)
 <use spin_mesh/spin_mesh.76.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.76.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.76.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.76.png (PNG copy)> <a1,fr76>
-<spin_mesh/spin_mesh.77.png, id=599, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.77.png, id=600, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.77.png Graphic file (type png)
 <use spin_mesh/spin_mesh.77.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.77.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.77.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.77.png (PNG copy)> <a1,fr77>
-<spin_mesh/spin_mesh.78.png, id=602, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.78.png, id=603, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.78.png Graphic file (type png)
 <use spin_mesh/spin_mesh.78.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.78.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.78.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.78.png (PNG copy)> <a1,fr78>
-<spin_mesh/spin_mesh.79.png, id=605, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.79.png, id=606, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.79.png Graphic file (type png)
 <use spin_mesh/spin_mesh.79.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.79.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.79.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.79.png (PNG copy)> <a1,fr79>
-<spin_mesh/spin_mesh.80.png, id=608, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.80.png, id=609, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.80.png Graphic file (type png)
 <use spin_mesh/spin_mesh.80.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.80.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.80.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.80.png (PNG copy)> <a1,fr80>
-<spin_mesh/spin_mesh.81.png, id=611, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.81.png, id=612, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.81.png Graphic file (type png)
 <use spin_mesh/spin_mesh.81.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.81.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.81.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.81.png (PNG copy)> <a1,fr81>
-<spin_mesh/spin_mesh.82.png, id=614, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.82.png, id=615, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.82.png Graphic file (type png)
 <use spin_mesh/spin_mesh.82.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.82.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.82.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.82.png (PNG copy)> <a1,fr82>
-<spin_mesh/spin_mesh.83.png, id=617, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.83.png, id=618, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.83.png Graphic file (type png)
 <use spin_mesh/spin_mesh.83.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.83.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.83.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.83.png (PNG copy)> <a1,fr83>
-<spin_mesh/spin_mesh.84.png, id=620, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.84.png, id=621, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.84.png Graphic file (type png)
 <use spin_mesh/spin_mesh.84.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.84.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.84.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.84.png (PNG copy)> <a1,fr84>
-<spin_mesh/spin_mesh.85.png, id=623, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.85.png, id=624, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.85.png Graphic file (type png)
 <use spin_mesh/spin_mesh.85.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.85.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.85.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.85.png (PNG copy)> <a1,fr85>
-<spin_mesh/spin_mesh.86.png, id=626, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.86.png, id=627, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.86.png Graphic file (type png)
 <use spin_mesh/spin_mesh.86.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.86.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.86.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.86.png (PNG copy)> <a1,fr86>
-<spin_mesh/spin_mesh.87.png, id=629, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.87.png, id=630, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.87.png Graphic file (type png)
 <use spin_mesh/spin_mesh.87.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.87.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.87.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.87.png (PNG copy)> <a1,fr87>
-<spin_mesh/spin_mesh.88.png, id=632, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.88.png, id=633, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.88.png Graphic file (type png)
 <use spin_mesh/spin_mesh.88.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.88.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.88.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.88.png (PNG copy)> <a1,fr88>
-<spin_mesh/spin_mesh.89.png, id=635, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.89.png, id=636, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.89.png Graphic file (type png)
 <use spin_mesh/spin_mesh.89.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.89.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.89.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.89.png (PNG copy)> <a1,fr89>
-<spin_mesh/spin_mesh.90.png, id=638, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.90.png, id=639, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.90.png Graphic file (type png)
 <use spin_mesh/spin_mesh.90.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.90.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.90.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.90.png (PNG copy)> <a1,fr90>
-<spin_mesh/spin_mesh.91.png, id=641, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.91.png, id=642, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.91.png Graphic file (type png)
 <use spin_mesh/spin_mesh.91.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.91.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.91.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.91.png (PNG copy)> <a1,fr91>
-<spin_mesh/spin_mesh.92.png, id=644, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.92.png, id=645, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.92.png Graphic file (type png)
 <use spin_mesh/spin_mesh.92.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.92.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.92.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.92.png (PNG copy)> <a1,fr92>
-<spin_mesh/spin_mesh.93.png, id=647, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.93.png, id=648, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.93.png Graphic file (type png)
 <use spin_mesh/spin_mesh.93.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.93.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.93.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.93.png (PNG copy)> <a1,fr93>
-<spin_mesh/spin_mesh.94.png, id=650, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.94.png, id=651, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.94.png Graphic file (type png)
 <use spin_mesh/spin_mesh.94.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.94.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.94.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.94.png (PNG copy)> <a1,fr94>
-<spin_mesh/spin_mesh.95.png, id=653, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.95.png, id=654, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.95.png Graphic file (type png)
 <use spin_mesh/spin_mesh.95.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.95.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.95.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.95.png (PNG copy)> <a1,fr95>
-<spin_mesh/spin_mesh.96.png, id=656, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.96.png, id=657, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.96.png Graphic file (type png)
 <use spin_mesh/spin_mesh.96.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.96.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.96.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.96.png (PNG copy)> <a1,fr96>
-<spin_mesh/spin_mesh.97.png, id=659, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.97.png, id=660, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.97.png Graphic file (type png)
 <use spin_mesh/spin_mesh.97.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.97.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.97.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.97.png (PNG copy)> <a1,fr97>
-<spin_mesh/spin_mesh.98.png, id=662, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.98.png, id=663, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.98.png Graphic file (type png)
 <use spin_mesh/spin_mesh.98.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.98.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.98.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.98.png (PNG copy)> <a1,fr98>
-<spin_mesh/spin_mesh.99.png, id=665, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.99.png, id=666, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.99.png Graphic file (type png)
 <use spin_mesh/spin_mesh.99.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.99.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.99.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.99.png (PNG copy)> <a1,fr99>
-<spin_mesh/spin_mesh.100.png, id=668, 1188.44pt x 1153.30875pt>
+<spin_mesh/spin_mesh.100.png, id=669, 1188.44pt x 1153.30875pt>
 File: spin_mesh/spin_mesh.100.png Graphic file (type png)
 <use spin_mesh/spin_mesh.100.png>
-Package pdftex.def Info: spin_mesh/spin_mesh.100.png  used on input line 219.
+Package pdftex.def Info: spin_mesh/spin_mesh.100.png  used on input line 225.
 (pdftex.def)             Requested size: 1188.43712pt x 1153.30594pt.
  <./spin_mesh/spin_mesh.100.png (PNG copy)> <a1,fr100> [5
 
 ]
-<figures/mesh.pdf, id=799, 2656.92625pt x 1766.6pt>
+<figures/mesh.pdf, id=800, 2656.92625pt x 1766.6pt>
 File: figures/mesh.pdf Graphic file (type pdf)
 <use figures/mesh.pdf>
-Package pdftex.def Info: figures/mesh.pdf  used on input line 265.
+Package pdftex.def Info: figures/mesh.pdf  used on input line 271.
 (pdftex.def)             Requested size: 216.67201pt x 144.05345pt.
 
-Overfull \vbox (17.58594pt too high) detected at line 265
+Overfull \vbox (17.58594pt too high) detected at line 271
  []
 
 [6
 
  <./figures/mesh.pdf>]
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 287.
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 293.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-<figures/dragvalnn.pdf, id=811, 498.82298pt x 398.4693pt>
+<figures/dragvalnn.pdf, id=812, 498.82298pt x 398.4693pt>
 File: figures/dragvalnn.pdf Graphic file (type pdf)
 <use figures/dragvalnn.pdf>
-Package pdftex.def Info: figures/dragvalnn.pdf  used on input line 287.
+Package pdftex.def Info: figures/dragvalnn.pdf  used on input line 293.
 (pdftex.def)             Requested size: 130.00452pt x 103.84885pt.
-<figures/lua_com.pdf, id=812, 1246.51634pt x 500.57513pt>
+<figures/lua_com.pdf, id=813, 1246.51634pt x 500.57513pt>
 File: figures/lua_com.pdf Graphic file (type pdf)
 <use figures/lua_com.pdf>
-Package pdftex.def Info: figures/lua_com.pdf  used on input line 287.
+Package pdftex.def Info: figures/lua_com.pdf  used on input line 293.
 (pdftex.def)             Requested size: 303.3395pt x 121.81323pt.
 
-Overfull \vbox (25.0992pt too high) detected at line 287
+Overfull \vbox (25.0992pt too high) detected at line 293
  []
 
 [7
 
  <./figures/dragvalnn.pdf> <./figures/lua_com.pdf>]
-<figures/timens.pdf, id=914, 447.6725pt x 228.855pt>
+<figures/timens.pdf, id=915, 447.6725pt x 228.855pt>
 File: figures/timens.pdf Graphic file (type pdf)
 <use figures/timens.pdf>
-Package pdftex.def Info: figures/timens.pdf  used on input line 311.
+Package pdftex.def Info: figures/timens.pdf  used on input line 317.
 (pdftex.def)             Requested size: 182.00554pt x 93.04544pt.
-<figures/times.pdf, id=915, 439.6425pt x 228.855pt>
+<figures/times.pdf, id=916, 439.6425pt x 228.855pt>
 File: figures/times.pdf Graphic file (type pdf)
 <use figures/times.pdf>
-Package pdftex.def Info: figures/times.pdf  used on input line 311.
+Package pdftex.def Info: figures/times.pdf  used on input line 317.
 (pdftex.def)             Requested size: 182.00554pt x 94.74257pt.
 
-Overfull \vbox (7.24481pt too high) detected at line 311
+Overfull \vbox (7.24481pt too high) detected at line 317
  []
 
 [8
 
  <./figures/timens.pdf> <./figures/times.pdf>]
-<figures/circlepressure.png, id=936, 1659.19875pt x 1093.08376pt>
+<figures/circlepressure.png, id=937, 1659.19875pt x 1093.08376pt>
 File: figures/circlepressure.png Graphic file (type png)
 <use figures/circlepressure.png>
-Package pdftex.def Info: figures/circlepressure.png  used on input line 334.
+Package pdftex.def Info: figures/circlepressure.png  used on input line 340.
 (pdftex.def)             Requested size: 273.00368pt x 179.85066pt.
-<figures/circledrag.pdf, id=937, 522.78748pt x 427.8384pt>
+<figures/circledrag.pdf, id=938, 522.78748pt x 427.8384pt>
 File: figures/circledrag.pdf Graphic file (type pdf)
 <use figures/circledrag.pdf>
-Package pdftex.def Info: figures/circledrag.pdf  used on input line 334.
+Package pdftex.def Info: figures/circledrag.pdf  used on input line 340.
 (pdftex.def)             Requested size: 86.66748pt x 70.92322pt.
-<figures/circlelift.pdf, id=938, 533.01318pt x 427.8384pt>
+<figures/circlelift.pdf, id=939, 533.01318pt x 427.8384pt>
 File: figures/circlelift.pdf Graphic file (type pdf)
 <use figures/circlelift.pdf>
-Package pdftex.def Info: figures/circlelift.pdf  used on input line 334.
+Package pdftex.def Info: figures/circlelift.pdf  used on input line 340.
 (pdftex.def)             Requested size: 86.66748pt x 69.56534pt.
 
-Overfull \vbox (16.94536pt too high) detected at line 334
+Overfull \vbox (16.94536pt too high) detected at line 340
  []
 
 [9
 
  <./figures/circlepressure.png> <./figures/circledrag.pdf> <./figures/circlelift.pdf>]
-<figures/circleschlieren.png, id=1007, 661.2705pt x 621.40155pt>
+<figures/circleschlieren.png, id=1008, 661.2705pt x 621.40155pt>
 File: figures/circleschlieren.png Graphic file (type png)
 <use figures/circleschlieren.png>
-Package pdftex.def Info: figures/circleschlieren.png  used on input line 355.
+Package pdftex.def Info: figures/circleschlieren.png  used on input line 361.
 (pdftex.def)             Requested size: 208.00803pt x 195.46754pt.
  [10
 
  <./figures/circleschlieren.png>]
-<figures/padrag0p5.pdf, id=1015, 1526.70375pt x 817.0525pt>
+<figures/padrag0p5.pdf, id=1016, 1526.70375pt x 817.0525pt>
 File: figures/padrag0p5.pdf Graphic file (type pdf)
 <use figures/padrag0p5.pdf>
-Package pdftex.def Info: figures/padrag0p5.pdf  used on input line 386.
+Package pdftex.def Info: figures/padrag0p5.pdf  used on input line 392.
 (pdftex.def)             Requested size: 148.63802pt x 79.54074pt.
-<figures/palift0p5.pdf, id=1016, 1526.70375pt x 817.0525pt>
+<figures/palift0p5.pdf, id=1017, 1526.70375pt x 817.0525pt>
 File: figures/palift0p5.pdf Graphic file (type pdf)
 <use figures/palift0p5.pdf>
-Package pdftex.def Info: figures/palift0p5.pdf  used on input line 386.
+Package pdftex.def Info: figures/palift0p5.pdf  used on input line 392.
 (pdftex.def)             Requested size: 148.63802pt x 79.54074pt.
-<figures/padrag1p5.pdf, id=1017, 1526.70375pt x 817.0525pt>
+<figures/padrag1p5.pdf, id=1018, 1526.70375pt x 817.0525pt>
 File: figures/padrag1p5.pdf Graphic file (type pdf)
 <use figures/padrag1p5.pdf>
-Package pdftex.def Info: figures/padrag1p5.pdf  used on input line 386.
+Package pdftex.def Info: figures/padrag1p5.pdf  used on input line 392.
 (pdftex.def)             Requested size: 148.63802pt x 79.54074pt.
-<figures/palift1p5.pdf, id=1018, 1526.70375pt x 817.0525pt>
+<figures/palift1p5.pdf, id=1019, 1526.70375pt x 817.0525pt>
 File: figures/palift1p5.pdf Graphic file (type pdf)
 <use figures/palift1p5.pdf>
-Package pdftex.def Info: figures/palift1p5.pdf  used on input line 386.
+Package pdftex.def Info: figures/palift1p5.pdf  used on input line 392.
 (pdftex.def)             Requested size: 148.63802pt x 79.54074pt.
 
-Overfull \vbox (18.53828pt too high) detected at line 386
+Overfull \vbox (18.53828pt too high) detected at line 392
  []
 
 [11
 
  <./figures/padrag0p5.pdf> <./figures/palift0p5.pdf> <./figures/padrag1p5.pdf> <./figures/palift1p5.pdf>]
-Overfull \hbox (21.22014pt too wide) in paragraph at lines 418--418
+Overfull \hbox (21.22014pt too wide) in paragraph at lines 424--424
 [][]  
  []
 
-<figures/schlierenar0p5.png, id=1046, 667.41345pt x 370.14285pt>
+<figures/schlierenar0p5.png, id=1047, 667.41345pt x 370.14285pt>
 File: figures/schlierenar0p5.png Graphic file (type png)
 <use figures/schlierenar0p5.png>
-Package pdftex.def Info: figures/schlierenar0p5.png  used on input line 418.
+Package pdftex.def Info: figures/schlierenar0p5.png  used on input line 424.
 (pdftex.def)             Requested size: 173.33826pt x 96.12756pt.
-<figures/schlierenar1p5.png, id=1047, 669.9429pt x 366.168pt>
+<figures/schlierenar1p5.png, id=1048, 669.9429pt x 366.168pt>
 File: figures/schlierenar1p5.png Graphic file (type png)
 <use figures/schlierenar1p5.png>
-Package pdftex.def Info: figures/schlierenar1p5.png  used on input line 418.
+Package pdftex.def Info: figures/schlierenar1p5.png  used on input line 424.
 (pdftex.def)             Requested size: 173.33826pt x 94.73769pt.
 
-Overfull \vbox (3.92206pt too high) detected at line 418
+Overfull \vbox (3.92206pt too high) detected at line 424
  []
 
 [12
 
  <./figures/schlierenar0p5.png> <./figures/schlierenar1p5.png>]
-<figures/mvmean0p5.pdf, id=1056, 472.76625pt x 272.01625pt>
+<figures/mvmean0p5.pdf, id=1057, 472.76625pt x 272.01625pt>
 File: figures/mvmean0p5.pdf Graphic file (type pdf)
 <use figures/mvmean0p5.pdf>
-Package pdftex.def Info: figures/mvmean0p5.pdf  used on input line 439.
+Package pdftex.def Info: figures/mvmean0p5.pdf  used on input line 445.
 (pdftex.def)             Requested size: 173.33826pt x 99.73544pt.
-<figures/mvmean1p5.pdf, id=1057, 472.76625pt x 272.01625pt>
+<figures/mvmean1p5.pdf, id=1058, 472.76625pt x 272.01625pt>
 File: figures/mvmean1p5.pdf Graphic file (type pdf)
 <use figures/mvmean1p5.pdf>
-Package pdftex.def Info: figures/mvmean1p5.pdf  used on input line 439.
+Package pdftex.def Info: figures/mvmean1p5.pdf  used on input line 445.
 (pdftex.def)             Requested size: 173.33826pt x 99.73544pt.
-<figures/pres_0p5.png, id=1058, 1398.22375pt x 926.46124pt>
+<figures/pres_0p5.png, id=1059, 1398.22375pt x 926.46124pt>
 File: figures/pres_0p5.png Graphic file (type png)
 <use figures/pres_0p5.png>
-Package pdftex.def Info: figures/pres_0p5.png  used on input line 439.
+Package pdftex.def Info: figures/pres_0p5.png  used on input line 445.
 (pdftex.def)             Requested size: 130.00452pt x 86.13455pt.
-<figures/pres_1p5.png, id=1059, 1398.22375pt x 926.46124pt>
+<figures/pres_1p5.png, id=1060, 1398.22375pt x 926.46124pt>
 File: figures/pres_1p5.png Graphic file (type png)
 <use figures/pres_1p5.png>
-Package pdftex.def Info: figures/pres_1p5.png  used on input line 439.
+Package pdftex.def Info: figures/pres_1p5.png  used on input line 445.
 (pdftex.def)             Requested size: 130.00452pt x 86.13455pt.
 
-Overfull \vbox (18.92769pt too high) detected at line 439
+Overfull \vbox (18.92769pt too high) detected at line 445
  []
 
 [13
 
  <./figures/mvmean0p5.pdf> <./figures/mvmean1p5.pdf> <./figures/pres_0p5.png> <./figures/pres_1p5.png>]
-LaTeX Font Info:    Trying to load font information for U+euf on input line 459.
+LaTeX Font Info:    Trying to load font information for U+euf on input line 465.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
 )
-<figures/ReH.png, id=1085, 448.074pt x 270.2898pt>
+<figures/ReH.png, id=1086, 448.074pt x 270.2898pt>
 File: figures/ReH.png Graphic file (type png)
 <use figures/ReH.png>
-Package pdftex.def Info: figures/ReH.png  used on input line 459.
+Package pdftex.def Info: figures/ReH.png  used on input line 465.
 (pdftex.def)             Requested size: 195.00348pt x 117.63284pt.
-<figures/ImH.png, id=1086, 461.8053pt x 270.2898pt>
+<figures/ImH.png, id=1087, 461.8053pt x 270.2898pt>
 File: figures/ImH.png Graphic file (type png)
 <use figures/ImH.png>
-Package pdftex.def Info: figures/ImH.png  used on input line 459.
+Package pdftex.def Info: figures/ImH.png  used on input line 465.
 (pdftex.def)             Requested size: 195.00348pt x 114.13133pt.
  [14
 
@@ -2069,17 +2075,17 @@ Package rerunfilecheck Info: File `aps.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  31509 strings out of 480129
- 651596 string characters out of 5893410
- 856817 words of memory out of 5000000
- 48641 multiletter control sequences out of 15000+600000
+ 651622 string characters out of 5893410
+ 856638 words of memory out of 5000000
+ 48639 multiletter control sequences out of 15000+600000
  485199 words of font info for 86 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
  99i,12n,104p,435b,1043s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi0800.pfb>
-Output written on aps.pdf (15 pages, 62479305 bytes).
+Output written on aps.pdf (15 pages, 63646419 bytes).
 PDF statistics:
- 1203 PDF objects out of 1440 (max. 8388607)
+ 1204 PDF objects out of 1440 (max. 8388607)
  613 compressed objects within 7 object streams
  45 named destinations out of 1000 (max. 500000)
- 2052 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2057 words of extra memory for PDF output out of 10000 (max. 10000000)
 
